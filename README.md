@@ -11,7 +11,7 @@
 
 ### Big-O gösterimini yazınız.
 
-n.(n-1).(n-2)... = (n.(n+1))/2 => O(n^2)
+- n.(n-1).(n-2)... = (n.(n+1))/2 => O(n^2)
 Time Complexity: 
 Average case: Aradığımız sayının ortada olması => O(n^2)
 Worst case: Aradığımız sayının sonda olmasın =(n^2)
