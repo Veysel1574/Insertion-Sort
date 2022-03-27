@@ -14,8 +14,8 @@
 - n.(n-1).(n-2)... = (n.(n+1))/2 => O(n^2)
 - Time Complexity: 
 - Average case: Aradığımız sayının ortada olması => O(n^2)
-- Worst case: Aradığımız sayının sonda olmasın =(n^2)
-- Best case: Aradığımız sayının dizinin en başında olması.
+- Worst case: Aradığımız sayının sonda olması => O(n^2)
+- Best case: Aradığımız sayının dizinin en başında olması => O(n)  
 
 ### Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 
