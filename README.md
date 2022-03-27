@@ -1,5 +1,5 @@
 # Insertion-Sort
-[Patika.dev](www.https://www.patika.dev/tr) in verdiği İnsertion-Short projesidir.
+[Patika.dev](https://www.patika.dev) in verdiği İnsertion-Short projesidir.
 
 [22,27,16,2,18,6] 
 
