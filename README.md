@@ -12,10 +12,10 @@
 ### Big-O gösterimini yazınız.
 
 - n.(n-1).(n-2)... = (n.(n+1))/2 => O(n^2)
-Time Complexity: 
-Average case: Aradığımız sayının ortada olması => O(n^2)
-Worst case: Aradığımız sayının sonda olmasın =(n^2)
-Best case: Aradığımız sayının dizinin en başında olması.
+- Time Complexity: 
+- Average case: Aradığımız sayının ortada olması => O(n^2)
+- Worst case: Aradığımız sayının sonda olmasın =(n^2)
+- Best case: Aradığımız sayının dizinin en başında olması.
 
 ### Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 
